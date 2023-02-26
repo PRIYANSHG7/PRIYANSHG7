@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **JS**
 
-- 💬 Ask me about **MERN,PROGRAMMING**
+- 💬 Ask me about **PROGRAMMING**
 
 - 📫 How to reach me **priyanshgkota@gmail.com**
 
